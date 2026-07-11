@@ -1,0 +1,7 @@
+ddidiversedermatologyimages-20260711T051641Z-2-001/
+EdStem_Stuff/
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+.ipynb_checkpoints/
